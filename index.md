@@ -1,8 +1,3 @@
-index.md
----
-title: キャリアシート
----
-
 # キャリアシート
 
 - 短文（転職向け）: [career.md](./career.md)
