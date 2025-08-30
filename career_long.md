@@ -1,3 +1,7 @@
+---
+title: キャリアシート(長文)
+---
+
 # 👨‍💻 キャリアシート
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
@@ -6,6 +10,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
+
+{% include_relative career.md %}
 
 ---
 

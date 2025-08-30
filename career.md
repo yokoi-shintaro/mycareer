@@ -1,49 +1,42 @@
-# 👨‍💻 キャリアシート(長文)
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
-
----
+# 👨‍💻 キャリアシート
 
 ## 📌 基本情報
 - **氏名**: 横井 伸太郎  
 - **年齢**: 41歳(1984年生まれ)  
 - **居住地**: 埼玉県  
-- **勤務先**: 株式会Kyuzan(9月退職予定) 
+- **勤務先**: 株式会Kyuzan(9月退職予定)  
 - **直近の実績**: スマホ向けソーシャルゲームのプロダクトリード（開発チームのリーダー）
 
+---
 
 ## 🌱 自己PR
 - サーバ領域における 技術選定〜環境構築～開発〜進捗管理〜外部MTG まで一貫対応可能  
 - 主体性と行動力が高い（チャットツールの発言量・コードの更新量が高い)  
-- Unity連動ソーシャルゲームのPHP開発が最も得意。typescript,web3も直近の実績あり
+- Unity連動ソーシャルゲームのPHP開発が最も得意。TypeScript, Web3も直近の実績あり  
 - AI(ClaudeCode/Cursor)による高速開発も可能
 
 ---
 
 ## 🎯 2025年9月の転職活動
 - 退職予定: 2025年9月末  
-- 退職理由1: ワークライフバランスの調整
-（複数チームのリードや土日夜間対応を求められて、育児との両立が不十分になった）
-- 退職理由2: スキルセットの調整
-(現職の重点領域(Typescript,Web3,mac,英語)と自分の強み(PHP/チーム管理)が食い違ってしまった）
-- 前職の年収:924万円(月77万円)
+- 退職理由1: ワークライフバランスの調整  
+（複数チームのリードや土日夜間対応を求められて、育児との両立が不十分になった）  
+- 退職理由2: スキルセットの調整  
+(現職の重点領域(TypeScript, Web3, mac, 英語)と自分の強み(PHP/チーム管理)が食い違ってしまった）  
+- 前職の年収: 924万円(月77万円)
 
-## **希望条件**
+---
+
+## 希望条件
 ### 共通
- - フルリモート+フレックス（コアタイム 10:00–15:00 目安、応相談）
- - PHPを用いた開発のプロダクトリード/シニアエンジニア
+- フルリモート+フレックス（コアタイム 10:00–15:00 目安、応相談）
+- PHPを用いた開発のプロダクトリード/シニアエンジニア
 
 ### 候補1.正社員
 - 事業をしっかりと理解したうえで、Web/基盤領域側から円滑にサポートする
 
 ### 候補2.フリーランス
 - リード/シニアエンジニアとして、開発を促進する
-
 
 ---
 
@@ -59,10 +52,10 @@
 ## 🚀 技術スタック
 - **言語**: PHP, TypeScript, ShellScript, SQL  
 - **DB**: MySQL, PostgreSQL, Memcached, Redis, Aurora  
-- **フレームワーク**: Laravel, NextJS, NestJs, Unity  
-- **インフラ**: AWS ,GCP
+- **フレームワーク**: Laravel, Next.js, NestJS, Unity  
+- **インフラ**: AWS, GCP  
 - **CI/CD**: GitHub Actions, PHPUnit  
-- **その他**: Docker, Alchemy, CaludeCode,Cursor,PhpStorm,ChatGPT  
+- **その他**: Docker, Alchemy, ClaudeCode, Cursor, PhpStorm, ChatGPT  
 
 ---
 
@@ -71,11 +64,11 @@
 ### [株式会社Kyuzan (2023年12月〜現職)](./career_long.html#entry-2023-kyuzan)
 - **役割**: プロダクトリード / サーバリード / バックエンドエンジニア  
 - **チーム規模**: 20名  
-- **利用技術**: PHP, Unity, GCP, MySQL, Docker
+- **利用技術**: PHP, Unity, GCP, MySQL, Docker  
 - **実績**:
-  - Unity * PHP * typescirpt(web3)で作られたゲームをプロダクトリードとして運用開発
-  - サーバ費用を1/3にコストダウン(API呼び出し削減,DB呼び出し削減,Bigquery整備)
-  - ブラウザ * typescript のゲームをプロダクトリードとして開発
+  - Unity × PHP × TypeScript (Web3) のゲームをプロダクトリードとして運用開発
+  - サーバ費用を1/3にコストダウン(API呼び出し削減, DB呼び出し削減, BigQuery整備)
+  - ブラウザ × TypeScript のゲームをプロダクトリードとして開発
 
 ### [株式会社でらゲー (2017年10月〜2023年11月)](./career_long.html#entry-2017-derage)
 - **役割**: サーバリーダー / バックエンドエンジニア  
@@ -124,9 +117,6 @@
 
 ---
 
-
----
-
 ## ⚡ 技術選定の考え方
 - **PHP**: 採用容易性・実績・管理画面開発効率  
 - **SQLite**: APIマスタデータを内包し通信コスト削減  
@@ -134,8 +124,9 @@
 - **Fargate**: スケールアウト・デプロイを容易化  
 - **UUID(ULID)**: 並列実行性 & 検索速度向上  
 - **自前KPIツール**: Redashから移行し柔軟性・Git管理性向上  
-- **EventBridge/GitHubActions**: 定期実行・自動マージの効率化  
-- **ClaudeCode**: エージェント型コーディングツールを使用
+- **EventBridge / GitHub Actions**: 定期実行・自動マージの効率化  
+- **ClaudeCode**: エージェント型コーディングツールを使用  
+
 ---
 
 <!-- LONG_LINKS_START -->
